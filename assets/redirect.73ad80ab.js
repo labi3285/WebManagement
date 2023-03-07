@@ -1,0 +1,1 @@
+import{d as n,u as s,b as u,W as c}from"./index.74f2624c.js";const i=n({name:"Redirect",setup(){const t=s(),r=u();return c(()=>{const{params:o,query:a}=t,{path:e}=o;r.replace({path:"/"+(Array.isArray(e)?e.join("/"):e),query:a})}),()=>React.createElement("div",null)}});export{i as default};
